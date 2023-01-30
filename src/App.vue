@@ -1,5 +1,6 @@
 <script setup>
 import NavBarre from "./views/nbView.vue";
+
 </script>
 
 <template>
