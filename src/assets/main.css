@@ -1,0 +1,14 @@
+@import './base.css';
+@import './reset.css';
+
+.material-symbols-outlined {
+  line-height: 1em;
+  font-size: 2rem;
+  vertical-align: bottom;
+
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
